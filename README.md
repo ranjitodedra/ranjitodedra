@@ -1,5 +1,7 @@
-![alt text](https://github.com/ranjitodedra/Test_Repo/blob/main/C%2B%2BBaseWORK/%40ranjit0dedra%20(1).gif)
 <h1 align="left">Hello 👋, I'm Ranjit Odedra</h1>
+
+![alt text](https://github.com/ranjitodedra/Test_Repo/blob/main/C%2B%2BBaseWORK/%40ranjit0dedra%20(1).gif)
+
 <h3 align="left" >"With great Programming skills, comes great responsibility."</h3>
 
 - 📫 How to reach me **ranjitodedra.work@gmail.com**
