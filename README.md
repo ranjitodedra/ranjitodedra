@@ -1,4 +1,4 @@
-![alt text](https://github.com/ranjitodedra/Test_Repo/blob/main/C%2B%2BBaseWORK/%40ranjit0dedra.gif)
+![alt text](https://github.com/ranjitodedra/Test_Repo/blob/main/C%2B%2BBaseWORK/%40ranjit0dedra%20(1).gif)
 <h1 >Hello 👋, I'm Ranjit Odedra</h1>
 <h3 >"With great Programming skills, comes great responsibility."</h3>
 
