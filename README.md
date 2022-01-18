@@ -7,7 +7,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/ranjit0dedra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ranjit0dedra" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ranjit odedra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ranjit odedra" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC-eokYMAOwDM9H8_1vqQ5ug" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ranjit odedra" height="30" width="40" /></a>
+<a href="https://twitter.com/ranjit0dedra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ranjit0dedra" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/ranjitodedra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ranjitodedra" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/20ce062" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="20ce062" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
