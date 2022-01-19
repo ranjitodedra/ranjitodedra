@@ -2,8 +2,6 @@
 
 ![alt text](https://github.com/ranjitodedra/Test_Repo/blob/main/C%2B%2BBaseWORK/%40ranjit0dedra%20(1).gif)
 
-- 
-
 ## **🙋‍♂️ About Me**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
