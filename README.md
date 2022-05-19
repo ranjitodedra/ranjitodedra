@@ -1,8 +1,6 @@
 <h1 align="left">Hello 👋, I'm Ranjit Odedra</h1>
 
-Portfolio site - https://ranjitodedra.github.io/ranjitodedra.com/
-
-![alt text](https://media4.giphy.com/media/2zeji2UedvZzvIZ45N/giphy.gif?cid=ecf05e47kvs877enoo3unhlvnetbtpplyiq9q6xhmrg763dm&rid=giphy.gif&ct=s)
+![alt text](https://media1.giphy.com/media/Niyk3I37xmdLU1HL8t/giphy.gif?cid=ecf05e47t549nwky1ouxp7mxzj05vhaiubkm8ymc7hq4kcsy&rid=giphy.gif&ct=s)
 
 ## **🙋‍♂️ About Me**
 
@@ -11,6 +9,8 @@ Portfolio site - https://ranjitodedra.github.io/ranjitodedra.com/
 - 👨‍💻 All of my projects are available at **My Github repo**
 
 - 📫 How to reach me **ranjitodedra.work@gmail.com**
+
+- Portfolio site - https://ranjitodedra.github.io/ranjitodedra.com/
 
 <br>
 
