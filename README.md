@@ -1,6 +1,6 @@
 <h1 align="left">Hello 👋, I'm Ranjit Odedra</h1>
 
-![alt text](https://c.tenor.com/rcGbLYC7-6IAAAAC/kakashi-hello.gif)
+![alt text](https://media4.giphy.com/media/pNN1wkWBfBhOt4txUP/giphy_s.gif?cid=ecf05e478fl2ldpg1kzgpgia7m8ck0tspovhhfozirpi6go2&rid=giphy_s.gif&ct=s)
 
 ## **🙋‍♂️ About Me**
 
