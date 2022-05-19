@@ -1,6 +1,8 @@
 <h1 align="left">Hello 👋, I'm Ranjit Odedra</h1>
 
-![alt text](https://github.com/ranjitodedra/Test_Repo/blob/main/C%2B%2BBaseWORK/%40ranjit0dedra%20(1).gif)
+Portfolio site - https://ranjitodedra.github.io/ranjitodedra.com/
+
+![alt text](https://media4.giphy.com/media/2zeji2UedvZzvIZ45N/giphy.gif?cid=ecf05e47kvs877enoo3unhlvnetbtpplyiq9q6xhmrg763dm&rid=giphy.gif&ct=s)
 
 ## **🙋‍♂️ About Me**
 
