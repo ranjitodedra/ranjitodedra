@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **ranjitodedra.work@gmail.com**
 
-- Portfolio site - https://ranjitodedra.github.io/ranjitodedra.com/
+- [Portfolio site](https://ranjitodedra.vercel.app/)
 
 <br>
 
