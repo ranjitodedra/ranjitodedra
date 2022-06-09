@@ -1,18 +1,21 @@
-<h1 align="left">Hello 👋, I'm Ranjit Odedra</h1>
 
-![alt text](https://media4.giphy.com/media/pNN1wkWBfBhOt4txUP/giphy.gif?cid=ecf05e478fl2ldpg1kzgpgia7m8ck0tspovhhfozirpi6go2&rid=giphy.gif&ct=s)
 
-## **🙋‍♂️ About Me**
+<div class="hero">
+ 
+<h1 align="center">Hello 👋, I'm Ranjit Odedra</h1>
+<img src="https://media4.giphy.com/media/pNN1wkWBfBhOt4txUP/giphy.gif?cid=ecf05e478fl2ldpg1kzgpgia7m8ck0tspovhhfozirpi6go2&rid=giphy.gif&ct=s" width="350px" align="right" />
+    
+# **🙋‍♂️ About Me**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+-  I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **My Github repo**
+-  All of my projects are available at **My Github repo**
 
-- 📫 How to reach me **ranjitodedra.work@gmail.com**
+-  How to reach me **ranjitodedra.work@gmail.com**
 
 - [Portfolio site](https://ranjitodedra.vercel.app/)
 
-<br>
+</div>
 
 <br />
 <h3 align="left">Languages and Tools:</h3>
