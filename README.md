@@ -16,15 +16,9 @@
 - [Portfolio site](https://ranjitodedra.vercel.app/)
 
 </div>
-<table align="center">
-  <tr>
-<td>
-  <img src="https://github-readme-stats.vercel.app/api?username=ranjitodedra&theme=blue-green&show_icons=true" alt="Ranjit Odedra" />
-</td>
-<td>
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ranjitodedra&theme=dark" alt="Ranjit Odedra" />
-</td>
-  </table>
+  
 <a href="https://github.com/jstrieb/github-stats">
    
 <br />
