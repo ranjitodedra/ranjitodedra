@@ -16,10 +16,6 @@
 - [Portfolio site](https://ranjitodedra.vercel.app/)
 
 </div>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ranjitodedra&theme=dark" alt="Ranjit Odedra" />
-  
-<a href="https://github.com/jstrieb/github-stats">
    
 <br />
 <h3 align="left">Languages and Tools:</h3>
